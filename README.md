@@ -1,4 +1,4 @@
-## Boas vindas ao meu perfil 
+## Boas vindas ao meu perfil ❤️
 
 **Meu nome é Julia**
 - Estou estudando na Alura
@@ -9,6 +9,7 @@
 ### Você pode entrar em contato comigo :mailbox
 
 juliapbr251@gmail.com
+
 @juliapbr
 
 
